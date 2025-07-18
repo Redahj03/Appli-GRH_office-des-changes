@@ -1,0 +1,1 @@
+﻿<%@ Application Language="C#" CodeBehind="Global.asax.cs" Inherits="GestionRHv2.Global" %>
